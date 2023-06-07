@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB5F3581-44E9-4AA6-A361-1B93050587D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227 - 7ca2786696186566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.UpdateTabla() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227 - 7ca2786696186566"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.UpdateTabla() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227 - 5fd384d9068afc9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMaldonadoControlEscolar.GetAllAlumnoController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227 - 850f7ab91e1a0ce6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "71EEF93C-44D6-44E5-92DB-9FA567EDF227 - 850f7ab91e1a0ce6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0850E1CF-AFB6-4FBD-BB83-F61C4DA78DD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AMaldonadoControlEscolar/ViewModel/AlumnoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "GetAll(Response:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0850E1CF-AFB6-4FBD-BB83-F61C4DA78DD0 - f7ed65ce0bde784e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AMaldonadoControlEscolar.AlumnoViewModel.GetAll(Response: (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/ViewModel/AlumnoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "0850E1CF-AFB6-4FBD-BB83-F61C4DA78DD0 - f7ed65ce0bde784e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AMaldonadoControlEscolar.AlumnoViewModel.GetAll(Response: (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/ViewModel/AlumnoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "0850E1CF-AFB6-4FBD-BB83-F61C4DA78DD0 - f7ed65ce0bde784e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static AMaldonadoControlEscolar.AlumnoViewModel.GetAll(Response: (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/ViewModel/AlumnoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF4FCD8A-C208-4F43-A06B-C7E19C9386CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF4FCD8A-C208-4F43-A06B-C7E19C9386CF - 7ca2786696186730"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.UpdateTabla() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+               <Location
+                  uuid = "CF4FCD8A-C208-4F43-A06B-C7E19C9386CF - 7ca2786696186730"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetAllAlumnoController.UpdateTabla() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "CF4FCD8A-C208-4F43-A06B-C7E19C9386CF - 5fd384d9068afeeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMaldonadoControlEscolar.GetAllAlumnoController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Alumno/GetAllAlumnoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEEADBD3-405F-4B09-BA99-9D0DD159F02A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AMaldonadoControlEscolar/Controller/Materia/GetallMateriaController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "GetAll()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEEADBD3-405F-4B09-BA99-9D0DD159F02A - f3dd448c1d185c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Materia&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetallMateriaController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Materia/GetallMateriaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "CEEADBD3-405F-4B09-BA99-9D0DD159F02A - f3dd448c1d185c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Materia&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetallMateriaController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Materia/GetallMateriaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "CEEADBD3-405F-4B09-BA99-9D0DD159F02A - ee2b2550e79c2d76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMaldonadoControlEscolar.GetallMateriaController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Materia/GetallMateriaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CEEADBD3-405F-4B09-BA99-9D0DD159F02A - f3dd448c1d18597"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;AMaldonadoControlEscolar.Result&lt;AMaldonadoControlEscolar.Materia&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AMaldonadoControlEscolar.GetallMateriaController.GetAll() -&gt; ()"
+                  moduleName = "AMaldonadoControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba15/Documentos/Axel%20Abraham%20Maldonado%20Enriquez/SwiftProjects/AMaldonadoControlEscolar/AMaldonadoControlEscolar/Controller/Materia/GetallMateriaController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
