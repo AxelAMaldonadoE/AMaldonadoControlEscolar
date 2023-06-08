@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D879FA4A5C256C57D338B9D5 /* Pods_AMaldonadoControlEscolar.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BE13EFB0C41494AC699A85C /* Pods_AMaldonadoControlEscolar.framework */; };
+		FA3CE31F2A326FD700F85A4A /* FormMateriaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3CE31E2A326FD700F85A4A /* FormMateriaController.swift */; };
 		FA8120F02A2FB7610083D971 /* AlumnoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8120EF2A2FB7610083D971 /* AlumnoViewModel.swift */; };
 		FA8120F32A2FB95B0083D971 /* GetAllAlumnoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8120F22A2FB95B0083D971 /* GetAllAlumnoController.swift */; };
 		FAC65C602A2F93F800CA6A3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC65C5F2A2F93F800CA6A3C /* AppDelegate.swift */; };
@@ -16,6 +18,9 @@
 		FAC65C6C2A2F93F900CA6A3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAC65C6A2A2F93F900CA6A3C /* LaunchScreen.storyboard */; };
 		FAC65C782A2F946E00CA6A3C /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC65C772A2F946E00CA6A3C /* Result.swift */; };
 		FAC65C7F2A2F9E2F00CA6A3C /* Alumno.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC65C7E2A2F9E2F00CA6A3C /* Alumno.swift */; };
+		FADF34AA2A315E3C003FC502 /* Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF34A92A315E3C003FC502 /* Ex.swift */; };
+		FADF34AC2A315E8D003FC502 /* InnerException.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF34AB2A315E8D003FC502 /* InnerException.swift */; };
+		FADF34AE2A315F1A003FC502 /* FormAlumnoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF34AD2A315F1A003FC502 /* FormAlumnoController.swift */; };
 		FAF2A58D2A2FDA03005B2666 /* AlumnoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF2A58B2A2FDA03005B2666 /* AlumnoCell.swift */; };
 		FAF2A58E2A2FDA03005B2666 /* AlumnoCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FAF2A58C2A2FDA03005B2666 /* AlumnoCell.xib */; };
 		FAF2A5912A2FE0E9005B2666 /* GetallMateriaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF2A5902A2FE0E9005B2666 /* GetallMateriaController.swift */; };
@@ -26,6 +31,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3BE13EFB0C41494AC699A85C /* Pods_AMaldonadoControlEscolar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AMaldonadoControlEscolar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		43BECEE835EDB0CC62A16652 /* Pods-AMaldonadoControlEscolar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AMaldonadoControlEscolar.release.xcconfig"; path = "Target Support Files/Pods-AMaldonadoControlEscolar/Pods-AMaldonadoControlEscolar.release.xcconfig"; sourceTree = "<group>"; };
+		934BDB5F0F44590D1A936801 /* Pods-AMaldonadoControlEscolar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AMaldonadoControlEscolar.debug.xcconfig"; path = "Target Support Files/Pods-AMaldonadoControlEscolar/Pods-AMaldonadoControlEscolar.debug.xcconfig"; sourceTree = "<group>"; };
+		FA3CE31E2A326FD700F85A4A /* FormMateriaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormMateriaController.swift; sourceTree = "<group>"; };
 		FA8120EF2A2FB7610083D971 /* AlumnoViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlumnoViewModel.swift; sourceTree = "<group>"; };
 		FA8120F22A2FB95B0083D971 /* GetAllAlumnoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetAllAlumnoController.swift; sourceTree = "<group>"; };
 		FAC65C5C2A2F93F800CA6A3C /* AMaldonadoControlEscolar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AMaldonadoControlEscolar.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -37,6 +46,9 @@
 		FAC65C6D2A2F93F900CA6A3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FAC65C772A2F946E00CA6A3C /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		FAC65C7E2A2F9E2F00CA6A3C /* Alumno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alumno.swift; sourceTree = "<group>"; };
+		FADF34A92A315E3C003FC502 /* Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ex.swift; sourceTree = "<group>"; };
+		FADF34AB2A315E8D003FC502 /* InnerException.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InnerException.swift; sourceTree = "<group>"; };
+		FADF34AD2A315F1A003FC502 /* FormAlumnoController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormAlumnoController.swift; sourceTree = "<group>"; };
 		FAF2A58B2A2FDA03005B2666 /* AlumnoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlumnoCell.swift; sourceTree = "<group>"; };
 		FAF2A58C2A2FDA03005B2666 /* AlumnoCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AlumnoCell.xib; sourceTree = "<group>"; };
 		FAF2A5902A2FE0E9005B2666 /* GetallMateriaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetallMateriaController.swift; sourceTree = "<group>"; };
@@ -51,16 +63,35 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D879FA4A5C256C57D338B9D5 /* Pods_AMaldonadoControlEscolar.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		51944486E4EB4EEFD0718723 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				934BDB5F0F44590D1A936801 /* Pods-AMaldonadoControlEscolar.debug.xcconfig */,
+				43BECEE835EDB0CC62A16652 /* Pods-AMaldonadoControlEscolar.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		DEA8F3E25D402737906CA0A3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3BE13EFB0C41494AC699A85C /* Pods_AMaldonadoControlEscolar.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FA8120F12A2FB9240083D971 /* Alumno */ = {
 			isa = PBXGroup;
 			children = (
 				FA8120F22A2FB95B0083D971 /* GetAllAlumnoController.swift */,
+				FADF34AD2A315F1A003FC502 /* FormAlumnoController.swift */,
 			);
 			path = Alumno;
 			sourceTree = "<group>";
@@ -70,6 +101,8 @@
 			children = (
 				FAC65C5E2A2F93F800CA6A3C /* AMaldonadoControlEscolar */,
 				FAC65C5D2A2F93F800CA6A3C /* Products */,
+				51944486E4EB4EEFD0718723 /* Pods */,
+				DEA8F3E25D402737906CA0A3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,6 +136,8 @@
 				FAC65C772A2F946E00CA6A3C /* Result.swift */,
 				FAC65C7E2A2F9E2F00CA6A3C /* Alumno.swift */,
 				FAF2A5922A2FE208005B2666 /* Materia.swift */,
+				FADF34A92A315E3C003FC502 /* Ex.swift */,
+				FADF34AB2A315E8D003FC502 /* InnerException.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -148,6 +183,7 @@
 			isa = PBXGroup;
 			children = (
 				FAF2A5902A2FE0E9005B2666 /* GetallMateriaController.swift */,
+				FA3CE31E2A326FD700F85A4A /* FormMateriaController.swift */,
 			);
 			path = Materia;
 			sourceTree = "<group>";
@@ -168,9 +204,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FAC65C702A2F93F900CA6A3C /* Build configuration list for PBXNativeTarget "AMaldonadoControlEscolar" */;
 			buildPhases = (
+				218368D1904A3C4D8B8E6E1B /* [CP] Check Pods Manifest.lock */,
 				FAC65C582A2F93F800CA6A3C /* Sources */,
 				FAC65C592A2F93F800CA6A3C /* Frameworks */,
 				FAC65C5A2A2F93F800CA6A3C /* Resources */,
+				63BFDA6B11ED44856FED1F40 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -229,6 +267,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		218368D1904A3C4D8B8E6E1B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-AMaldonadoControlEscolar-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		63BFDA6B11ED44856FED1F40 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AMaldonadoControlEscolar/Pods-AMaldonadoControlEscolar-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AMaldonadoControlEscolar/Pods-AMaldonadoControlEscolar-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AMaldonadoControlEscolar/Pods-AMaldonadoControlEscolar-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		FAC65C582A2F93F800CA6A3C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -237,11 +317,15 @@
 				FAF2A5912A2FE0E9005B2666 /* GetallMateriaController.swift in Sources */,
 				FA8120F02A2FB7610083D971 /* AlumnoViewModel.swift in Sources */,
 				FAF2A5932A2FE208005B2666 /* Materia.swift in Sources */,
+				FA3CE31F2A326FD700F85A4A /* FormMateriaController.swift in Sources */,
 				FAF2A5992A2FE3A9005B2666 /* MateriaCell.swift in Sources */,
 				FAC65C7F2A2F9E2F00CA6A3C /* Alumno.swift in Sources */,
+				FADF34AC2A315E8D003FC502 /* InnerException.swift in Sources */,
 				FA8120F32A2FB95B0083D971 /* GetAllAlumnoController.swift in Sources */,
+				FADF34AE2A315F1A003FC502 /* FormAlumnoController.swift in Sources */,
 				FAF2A58D2A2FDA03005B2666 /* AlumnoCell.swift in Sources */,
 				FAC65C602A2F93F800CA6A3C /* AppDelegate.swift in Sources */,
+				FADF34AA2A315E3C003FC502 /* Ex.swift in Sources */,
 				FAC65C782A2F946E00CA6A3C /* Result.swift in Sources */,
 				FAF2A5952A2FE25B005B2666 /* MateriaViewModel.swift in Sources */,
 				FAC65C622A2F93F800CA6A3C /* SceneDelegate.swift in Sources */,
@@ -386,6 +470,7 @@
 		};
 		FAC65C712A2F93F900CA6A3C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 934BDB5F0F44590D1A936801 /* Pods-AMaldonadoControlEscolar.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -414,6 +499,7 @@
 		};
 		FAC65C722A2F93F900CA6A3C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43BECEE835EDB0CC62A16652 /* Pods-AMaldonadoControlEscolar.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

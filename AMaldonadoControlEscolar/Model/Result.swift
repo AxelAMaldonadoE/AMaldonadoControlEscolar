@@ -13,12 +13,13 @@ struct Result<T: Codable>: Codable{
     var ErrorMessage: String?
     var Object: T?
     var Objects: [T]?
-    //var Ex:
+    var Ex: Ex?
     
     init() {
         Correct = false
         ErrorMessage = nil
         Object = nil
         Objects = nil
+        Ex = nil
     }
 }

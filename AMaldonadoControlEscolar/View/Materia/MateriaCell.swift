@@ -6,8 +6,9 @@
 //
 
 import UIKit
+import SwipeCellKit
 
-class MateriaCell: UITableViewCell {
+class MateriaCell: SwipeTableViewCell {
     
     @IBOutlet weak var lblNombre: UILabel!
     @IBOutlet weak var lblCosto: UILabel!
